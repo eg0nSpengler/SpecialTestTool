@@ -3,8 +3,8 @@ from configparser import ConfigParser
 config = ConfigParser()
 
 config["app_settings"] = {
-    "screenshot_filepath": "C:\\Users\\antho\\Documents\\wgushots",
-    "api_key": "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"
+    "screenshot_filepath": "SCREENSHOT FOLDER GOES HERE",
+    "api_key": "OPENAI API KEY GOES HERE"
 }
 
 with open("app_settings.ini", "w") as f:
