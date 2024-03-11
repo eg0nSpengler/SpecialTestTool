@@ -1,6 +1,6 @@
 # Special Test Tool
 
-### You'll have to excuse the name, while I don't condone cheating I made this tool for someone for someone to assist them in their studies.
+### You'll have to excuse the name, while I don't condone cheating I made this tool for someone to assist them in their studies.
 
 # Dependencies
 
